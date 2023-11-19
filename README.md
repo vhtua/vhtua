@@ -12,6 +12,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  ![C][C.c]
  ![C++][C++.cpp]
  ![Java][Java.java]
+ ![Python][Python.py]
  ![R][R.R]
  ![Matlab][Matlab.m]
  [![HTML][HTML.html]][HTML-url]
@@ -90,4 +91,4 @@ Here are some ideas to get you started:
 [Java.java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [R.R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [Matlab.m]: https://img.shields.io/badge/Matlab-00599C?style=for-the-badge&logo=matlab&logoColor=white
-
+[Python.py]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
