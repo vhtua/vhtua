@@ -25,7 +25,8 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![Docker][Docker.dockerfile]][Docker-url]
 
 #### OS:
- [![Android][Docker.dockerfile]][Docker-url]
+ [![Android][Android.apk]][Android-url]
+ [![Debian][Debian.deb]][Debian-url]
 
  
 
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 [PHP-url]: https://www.php.net/
 [MySQL.db]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
-[Docker.dockerfile]: https://img.shields.io/badge/dockerhub-images-important.svg?logo=Docker
+[Docker.dockerfile]: https://img.shields.io/badge/Docker-0377FC?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [Bootstrap.css]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com/
@@ -64,3 +65,5 @@ Here are some ideas to get you started:
 [NodeJs-url]: https://nodejs.org/
 [Android.apk]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 [Android-url]: https://www.android.com/
+[Debian.deb]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+[Debian-url]: https://www.debian.org/
