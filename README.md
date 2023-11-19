@@ -13,8 +13,10 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![CSS][CSS.css]][CSS-url]
  [![Bootstrap][Bootstrap.css]][Bootstrap-url]
  [![JavaScript][JavaScript.js]][JavaScript-url]
+ [![NodeJs][NodeJs.js]][NodeJs-url]
  [![PHP][PHP.php]][PHP-url]
  [![MySQL][MySQL.db]][MYSQL-url]
+
 
 <!--
 **vhtuananh020402/vhtuananh020402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +48,5 @@ Here are some ideas to get you started:
 [Bootstrap.css]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com/
 [Less.js]: https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white
+[NodeJs.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[NodeJs-url]: https://nodejs.org/
