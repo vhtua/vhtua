@@ -7,15 +7,24 @@ I am a final-year student with a passion for Computer Science, and the ability t
 
 ----
 
-#### Skills (Languages, Framework, Tools):
-
+### Skills
+#### Languages: 
  [![HTML][HTML.html]][HTML-url]
  [![CSS][CSS.css]][CSS-url]
- [![Bootstrap][Bootstrap.css]][Bootstrap-url]
  [![JavaScript][JavaScript.js]][JavaScript-url]
- [![NodeJs][NodeJs.js]][NodeJs-url]
  [![PHP][PHP.php]][PHP-url]
+ 
+#### Framework:
+ [![Bootstrap][Bootstrap.css]][Bootstrap-url]
+ [![NodeJs][NodeJs.js]][NodeJs-url]
+ 
+#### Database:
  [![MySQL][MySQL.db]][MYSQL-url]
+
+#### Tool:
+ [![Docker][Docker.dockerfile]][Docker-url]
+
+ 
 
 
 <!--
