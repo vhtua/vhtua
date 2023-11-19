@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a final-year student with a passion for Computer Science, and the ability to self-study and solve problems is my strength. I always appreciate opportunities to contribute to the development of technology in general, leveraging my strengths. My goal is to ensure that everyone can easily access and utilize technology in their daily lives.
+
+- 🌱 I’m currently learning Machine Learning
+
 <!--
 **vhtuananh020402/vhtuananh020402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
