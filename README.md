@@ -9,6 +9,11 @@ I am a final-year student with a passion for Computer Science, and the ability t
 
 ### Skills
 #### Languages: 
+ ![C][C.c]
+ ![C++][C++.cpp]
+ ![Java][Java.java]
+ ![R][R.R]
+ ![Matlab][Matlab.m]
  [![HTML][HTML.html]][HTML-url]
  [![CSS][CSS.css]][CSS-url]
  [![JavaScript][JavaScript.js]][JavaScript-url]
@@ -20,6 +25,8 @@ I am a final-year student with a passion for Computer Science, and the ability t
  
 #### Database:
  [![MySQL][MySQL.db]][MYSQL-url]
+ ![MongoDB][MongoDB.db]
+ ![Postgresql][Postgresql.db]
 
 #### Tool:
  [![Docker][Docker.dockerfile]][Docker-url]
@@ -27,6 +34,9 @@ I am a final-year student with a passion for Computer Science, and the ability t
 #### OS:
  [![Android][Android.apk]][Android-url]
  [![Debian][Debian.deb]][Debian-url]
+ [![KaliLinux][KaliLinux.deb]][KaliLinux-url]
+ [![Ubuntu][Ubuntu.deb]][Ubuntu-url]
+ [![Windows][Windows.exe]][Windows-url]
 
  
 
@@ -56,6 +66,8 @@ Here are some ideas to get you started:
 [PHP-url]: https://www.php.net/
 [MySQL.db]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
+[MongoDB.db]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[Postgresql.db]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [Docker.dockerfile]: https://img.shields.io/badge/Docker-0377FC?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [Bootstrap.css]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
@@ -67,3 +79,15 @@ Here are some ideas to get you started:
 [Android-url]: https://www.android.com/
 [Debian.deb]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
 [Debian-url]: https://www.debian.org/
+[KaliLinux.deb]: https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+[KaliLinux-url]: https://www.kali.org/
+[Ubuntu.deb]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[Ubuntu-url]: https://ubuntu.com/
+[Windows.exe]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[Windows-url]: https://www.microsoft.com/en-us/windows
+[C.c]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[C++.cpp]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Java.java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[R.R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+[Matlab.m]: https://img.shields.io/badge/Matlab-00599C?style=for-the-badge&logo=matlab&logoColor=white
+
