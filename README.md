@@ -25,7 +25,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![Docker][Docker.dockerfile]][Docker-url]
 
 #### OS:
-
+ [![Android][Docker.dockerfile]][Docker-url]
 
  
 
@@ -62,3 +62,5 @@ Here are some ideas to get you started:
 [Less.js]: https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white
 [NodeJs.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [NodeJs-url]: https://nodejs.org/
+[Android.apk]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+[Android-url]: https://www.android.com/
