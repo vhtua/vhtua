@@ -12,8 +12,6 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![HTML][HTML.html]][HTML-url]
  [![CSS][CSS.css]][CSS-url]
  [![Bootstrap][Bootstrap.css]][Bootstrap-url]
- [![Less][Less.js]][Less-url]
- [![SASS][SASS.css]][SASS-url]
  [![JavaScript][JavaScript.js]][JavaScript-url]
  [![PHP][PHP.php]][PHP-url]
  [![MySQL][MySQL.db]][MYSQL-url]
