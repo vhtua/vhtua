@@ -7,6 +7,17 @@ I am a final-year student with a passion for Computer Science, and the ability t
 
 ----
 
+#### Skills (Languages, Framework, Tools):
+
+ [![HTML][HTML.html]][HTML-url]
+ [![CSS][CSS.css]][CSS-url]
+ [![Bootstrap][Bootstrap.css]][Bootstrap-url]
+ [![Less][Less.js]][Less-url]
+ [![SASS][SASS.css]][SASS-url]
+ [![JavaScript][JavaScript.js]][JavaScript-url]
+ [![PHP][PHP.php]][PHP-url]
+ [![MySQL][MySQL.db]][MYSQL-url]
+
 <!--
 **vhtuananh020402/vhtuananh020402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +32,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[HTML.html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://html.spec.whatwg.org/
+[CSS.css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.w3.org/TR/CSS/#css
+[JavaScript.js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[PHP.php]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[PHP-url]: https://www.php.net/
+[MySQL.db]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[Docker.dockerfile]: https://img.shields.io/badge/dockerhub-images-important.svg?logo=Docker
+[Docker-url]: https://www.docker.com/
+[Bootstrap.css]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com/
+[Less.js]: https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white
