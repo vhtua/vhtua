@@ -33,12 +33,13 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![Docker][Docker.dockerfile]][Docker-url] 
 
 #### OS:
- ![Linux][Linux.deb]
  [![Android][Android.apk]][Android-url]
+ [![Windows][Windows.exe]][Windows-url]
+ ![Linux][Linux.deb]
  [![Debian][Debian.deb]][Debian-url]
  [![KaliLinux][KaliLinux.deb]][KaliLinux-url]
  [![Ubuntu][Ubuntu.deb]][Ubuntu-url]
- [![Windows][Windows.exe]][Windows-url]
+
 
  
 
