@@ -30,7 +30,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  ![Postgresql][Postgresql.db]
 
 #### Tool:
- [![Docker][Docker.dockerfile]][Docker-url]
+ [![Docker][Docker.dockerfile]][Docker-url] 
 
 #### OS:
  [![Android][Android.apk]][Android-url]
@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 [Less.js]: https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white
 [NodeJs.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [NodeJs-url]: https://nodejs.org/
+[Linux.deb]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 [Android.apk]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 [Android-url]: https://www.android.com/
 [Debian.deb]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
