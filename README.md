@@ -20,6 +20,8 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![CSS][CSS.css]][CSS-url]
  [![JavaScript][JavaScript.js]][JavaScript-url]
  [![PHP][PHP.php]][PHP-url]
+ ![Markdown][markdown.md]
+ 
  
 #### Framework:
  [![Bootstrap][Bootstrap.css]][Bootstrap-url]
@@ -97,3 +99,4 @@ Here are some ideas to get you started:
 [Matlab.m]: https://img.shields.io/badge/Matlab-00599C?style=for-the-badge&logo=matlab&logoColor=white
 [Python.py]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [CSharp.cs]: https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white
+[Markdown.md]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
