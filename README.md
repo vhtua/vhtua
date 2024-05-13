@@ -11,6 +11,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
 #### Languages: 
  ![C][C.c]
  ![C++][C++.cpp]
+ ![C#][CSharp.cs]
  ![Java][Java.java]
  ![Python][Python.py]
  ![R][R.R]
@@ -95,3 +96,4 @@ Here are some ideas to get you started:
 [R.R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [Matlab.m]: https://img.shields.io/badge/Matlab-00599C?style=for-the-badge&logo=matlab&logoColor=white
 [Python.py]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[CSharp.cs]: https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c-sharp&logoColor=white
