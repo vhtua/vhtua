@@ -107,4 +107,4 @@ Here are some ideas to get you started:
 [React.jsx]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
 [Express.js]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-[Shellscript-url]: [https://img.shields.io/badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[Shellscript-url]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
