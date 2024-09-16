@@ -59,6 +59,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
 #### Workflow platforms:
 ![Jira][Jira.http]
 ![MSProject][MSProject.mpp]
+![openProject][openProject.http]
 ![Trello][Trello.http]
  
 
@@ -132,4 +133,5 @@ Here are some ideas to get you started:
 [Figma.fig]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [Jira.http]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
 [Trello.http]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-[MSProject]: https://img.shields.io/badge/Microsoft_Project-00C300?style=for-the-badge&logo=microsoft-project&logoColor=white
+[MSProject.mpp]: https://img.shields.io/badge/Microsoft_Project-00C300?style=for-the-badge&logo=microsoft-project&logoColor=white
+[openProject.http]: https://img.shields.io/badge/openProject-2CA5E0?style=for-the-badge&logo=openproject&logoColor=white
