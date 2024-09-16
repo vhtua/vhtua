@@ -46,6 +46,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  ![Git][Git.git]
  ![Bash][Bash.sh]
  ![Powershell][Powershell.ps1]
+ ![Figma][Figma.fig]
 
 #### OS:
  [![Android][Android.apk]][Android-url]
@@ -55,7 +56,9 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![KaliLinux][KaliLinux.deb]][KaliLinux-url]
  [![Ubuntu][Ubuntu.deb]][Ubuntu-url]
 
-
+#### Workflow platforms:
+![Jira][Jira.http]
+![Trello][Trello.http]
  
 
 
@@ -119,9 +122,12 @@ Here are some ideas to get you started:
 [Flask.py]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [Postman.http]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [SQLite.sql]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-[MSSQLServer.sql]: https://img.shields.io/badge/Microsoft%20SQL%20Server-DD0031?style=for-the-badge&logo=&logoColor=white
+[MSSQLServer.sql]: https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
 [Redux.js]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 [Latex.tex]: https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff
 [Git.git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [Bash.sh]: https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
 [Powershell.ps1]: https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+[Figma.fig]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[Jira.http]: https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white
+[Trello.http]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
