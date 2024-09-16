@@ -24,21 +24,22 @@ I am a final-year student with a passion for Computer Science, and the ability t
  ![Markdown][markdown.md]
  
  
-#### Framework:
+#### Frameworks, Libraries:
  [![Bootstrap][Bootstrap.css]][Bootstrap-url]
  [![NodeJs][NodeJs.js]][NodeJs-url]
  [![React][React.jsx]][React-url]
+ ![Redux][Redux.js]
  ![Express][Express.js]
  ![Flask][Flask.py]
  
-#### Database:
+#### Databases:
  [![MySQL][MySQL.db]][MYSQL-url]
  ![MongoDB][MongoDB.db]
  ![Postgresql][Postgresql.db]
  ![MSSQLServer][MSSQLServer.sql]
  ![SQLite][SQLite.sql]
 
-#### Tool:
+#### Tools:
  [![Docker][Docker.dockerfile]][Docker-url] 
  ![Postman][Postman.http]
 
@@ -115,3 +116,4 @@ Here are some ideas to get you started:
 [Postman.http]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [SQLite.sql]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 [MSSQLServer.sql]: https://img.shields.io/badge/Microsoft%20SQL%20Server-DD0031?style=for-the-badge&logo=&logoColor=white
+[Redux.js]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
