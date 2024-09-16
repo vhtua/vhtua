@@ -40,9 +40,10 @@ I am a final-year student with a passion for Computer Science, and the ability t
  ![MSSQLServer][MSSQLServer.sql]
  ![SQLite][SQLite.sql]
 
-#### Tools:
+#### Systems, Tools:
  [![Docker][Docker.dockerfile]][Docker-url] 
  ![Postman][Postman.http]
+ ![Git][Git.git]
 
 #### OS:
  [![Android][Android.apk]][Android-url]
@@ -119,3 +120,4 @@ Here are some ideas to get you started:
 [MSSQLServer.sql]: https://img.shields.io/badge/Microsoft%20SQL%20Server-DD0031?style=for-the-badge&logo=&logoColor=white
 [Redux.js]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 [Latex.tex]: https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff
+[Git.git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
