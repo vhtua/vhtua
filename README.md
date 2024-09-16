@@ -112,4 +112,4 @@ Here are some ideas to get you started:
 [Shellscript.sh]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Flask.py]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [SQLite.sql]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-[MSSQLServer.sql]: https://img.shields.io/badge/Microsoft%20SQL%20Server-FFFFFF?style=for-the-badge&logo=&logoColor=DD0031
+[MSSQLServer.sql]: https://img.shields.io/badge/Microsoft%20SQL%20Server-DD0031?style=for-the-badge&logo=&logoColor=white
