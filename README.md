@@ -44,6 +44,8 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![Docker][Docker.dockerfile]][Docker-url] 
  ![Postman][Postman.http]
  ![Git][Git.git]
+ ![Bash][Bash.sh]
+ ![Powershell][Powershell.ps1]
 
 #### OS:
  [![Android][Android.apk]][Android-url]
@@ -121,3 +123,5 @@ Here are some ideas to get you started:
 [Redux.js]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 [Latex.tex]: https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff
 [Git.git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[Bash.sh]: https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white
+[Powershell.ps1]: https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
