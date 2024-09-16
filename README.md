@@ -20,7 +20,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![CSS][CSS.css]][CSS-url]
  [![JavaScript][JavaScript.js]][JavaScript-url]
  [![PHP][PHP.php]][PHP-url]
- ![Shellscript][Shellscript-url]
+ ![Shellscript][Shellscript.sh]
  ![Markdown][markdown.md]
  
  
@@ -29,7 +29,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![NodeJs][NodeJs.js]][NodeJs-url]
  [![React][React.jsx]][React-url]
  ![Express][Express.js]
- |[]
+ ![Flask][Flask.py]
  
 #### Database:
  [![MySQL][MySQL.db]][MYSQL-url]
@@ -107,4 +107,5 @@ Here are some ideas to get you started:
 [React.jsx]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
 [Express.js]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-[Shellscript-url]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[Shellscript.sh]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[Flask.py]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
