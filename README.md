@@ -21,6 +21,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![JavaScript][JavaScript.js]][JavaScript-url]
  [![PHP][PHP.php]][PHP-url]
  ![Shellscript][Shellscript.sh]
+ ![Latex][Latex.tex]
  ![Markdown][markdown.md]
  
  
@@ -117,3 +118,4 @@ Here are some ideas to get you started:
 [SQLite.sql]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 [MSSQLServer.sql]: https://img.shields.io/badge/Microsoft%20SQL%20Server-DD0031?style=for-the-badge&logo=&logoColor=white
 [Redux.js]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[Latex.tex]: https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff
