@@ -27,6 +27,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![Bootstrap][Bootstrap.css]][Bootstrap-url]
  [![NodeJs][NodeJs.js]][NodeJs-url]
  [![React][React.jsx]][React-url]
+ ![Express][Express.js]
  
 #### Database:
  [![MySQL][MySQL.db]][MYSQL-url]
@@ -103,3 +104,4 @@ Here are some ideas to get you started:
 [Markdown.md]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [React.jsx]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
+[Express.js]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
