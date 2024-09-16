@@ -35,6 +35,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![MySQL][MySQL.db]][MYSQL-url]
  ![MongoDB][MongoDB.db]
  ![Postgresql][Postgresql.db]
+ ![SQLite][SQLite.sql]
 
 #### Tool:
  [![Docker][Docker.dockerfile]][Docker-url] 
@@ -109,3 +110,4 @@ Here are some ideas to get you started:
 [Express.js]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
 [Shellscript.sh]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Flask.py]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[SQLite.sql]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
