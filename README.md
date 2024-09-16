@@ -20,7 +20,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![CSS][CSS.css]][CSS-url]
  [![JavaScript][JavaScript.js]][JavaScript-url]
  [![PHP][PHP.php]][PHP-url]
- ![Shell script][Shellscript-url]
+ ![Shellscript][Shellscript-url]
  ![Markdown][markdown.md]
  
  
