@@ -47,6 +47,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  ![Git][Git.git]
  ![Bash][Bash.sh]
  ![Powershell][Powershell.ps1]
+ ![Vite][Vite.js]
  ![Figma][Figma.fig]
 
 #### OS:
@@ -137,3 +138,4 @@ Here are some ideas to get you started:
 [MSProject.mpp]: https://img.shields.io/badge/Microsoft_Project-00C300?style=for-the-badge&logo=microsoft-project&logoColor=white
 [openProject.http]: https://img.shields.io/badge/openProject-2CA5E0?style=for-the-badge&logo=openproject&logoColor=white
 [MaterialUi.js]: https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white
+[Vite.js]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white
