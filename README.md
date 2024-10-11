@@ -30,6 +30,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  [![NodeJs][NodeJs.js]][NodeJs-url]
  [![React][React.jsx]][React-url]
  ![Redux][Redux.js]
+ ![MaterialUi][MaterialUi.js]
  ![Express][Express.js]
  ![Flask][Flask.py]
  
@@ -135,3 +136,4 @@ Here are some ideas to get you started:
 [Trello.http]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 [MSProject.mpp]: https://img.shields.io/badge/Microsoft_Project-00C300?style=for-the-badge&logo=microsoft-project&logoColor=white
 [openProject.http]: https://img.shields.io/badge/openProject-2CA5E0?style=for-the-badge&logo=openproject&logoColor=white
+[MaterialUi.js]: https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white
