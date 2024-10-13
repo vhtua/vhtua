@@ -39,6 +39,7 @@ I am a final-year student with a passion for Computer Science, and the ability t
  ![MongoDB][MongoDB.db]
  ![Postgresql][Postgresql.db]
  ![MSSQLServer][MSSQLServer.sql]
+ ![Redis][Redis.js]
  ![SQLite][SQLite.sql]
 
 #### Systems, Tools:
@@ -93,6 +94,7 @@ Here are some ideas to get you started:
 [MySQL-url]: https://www.mysql.com/
 [MongoDB.db]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [Postgresql.db]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[Redis.js]: https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
 [Docker.dockerfile]: https://img.shields.io/badge/Docker-0377FC?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
 [Bootstrap.css]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
